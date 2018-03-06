@@ -1,3 +1,8 @@
 Links:
 RESTful API https://spring.io/guides/gs/rest-service/
 Installing as service https://docs.spring.io/spring-boot/docs/current/reference/html/deployment-install.html
+
+Dependencies:
+Framework - SpringBoot 1.5.10
+Pi4j - 1.2
+Build with Maven 4.0
